@@ -39,8 +39,8 @@ export const products: Product[] = [
       "Professional infrared temperature gun with laser grip. Measures temperatures from -58°F to 752°F (-50°C to 400°C). Perfect for cooking, BBQ, and industrial use.",
     usage:
       "Point the laser at the target surface from 6-12 inches away. Pull the trigger to get instant temperature reading on the LCD display.",
-    image: "/products/infrared-thermometer.jpg",
-    image2: "/products/infrared-thermometer-2.jpg",
+    image: "https://m.media-amazon.com/images/I/61L-7dKjIrL._SL1500_.jpg",
+    image2: "https://m.media-amazon.com/images/I/71NG4fC5AbL._SL1500_.jpg"
   },
   {
     id: "htc-2-thermometer",
@@ -50,8 +50,8 @@ export const products: Product[] = [
       "Room thermometer with humidity meter and LCD digital clock. Wall mounting capability with accurate temperature and humidity indicators.",
     usage:
       "Mount on wall or place on desk. Device automatically displays room temperature, humidity percentage, and time. No calibration needed.",
-    image: "/products/htc-2-thermometer.jpg",
-    image2: "/products/htc-2-thermometer-2.jpg",
+    image: "https://m.media-amazon.com/images/I/51H83c1KeKL._SL1000_.jpg",
+    image2: "https://m.media-amazon.com/images/I/71mnfiiV8wL._SL1500_.jpg"
   },
   {
     id: "adjustable-hand-grip",
@@ -61,8 +61,8 @@ export const products: Product[] = [
       "Professional hand gripper with digital counter for men and women. Adjustable resistance from 5kg to 60kg for progressive training.",
     usage:
       "Set desired resistance level. Squeeze the gripper repeatedly. Counter tracks your repetitions automatically. Ideal for forearm and finger strengthening.",
-    image: "/products/adjustable-hand-grip.jpg",
-    image2: "/products/adjustable-hand-grip-2.jpg",
+    image: "https://m.media-amazon.com/images/I/51+tl+KDdvL.jpg",
+    image2: "https://m.media-amazon.com/images/I/513tlr1uBdL.jpg"
   },
   {
     id: "htc-1-thermometer",
@@ -72,8 +72,8 @@ export const products: Product[] = [
       "High precision hygrometer thermometer with alarm clock and big LCD display. Suitable for wall mounting or desktop use in home and office.",
     usage:
       "Place in desired location. Device displays temperature, humidity, and time simultaneously. Set alarm using the buttons on the back.",
-    image: "/products/htc-1-thermometer.jpg",
-    image2: "/products/htc-1-thermometer-2.jpg",
+    image: "https://m.media-amazon.com/images/I/41TC5tZejTL.jpg",
+    image2: "https://m.media-amazon.com/images/I/41TC5tZejTL.jpg"
   },
   {
     id: "tds-meter",
@@ -83,8 +83,8 @@ export const products: Product[] = [
       "Water quality tester for measuring PPM (parts per million). Essential for testing home water, RO systems, aquariums, and hydroponics.",
     usage:
       "Remove protective cap. Turn on the device. Immerse the electrode in water and stir gently. Wait for reading to stabilize on display.",
-    image: "/products/tds-meter.jpg",
-    image2: "/products/tds-meter-2.jpg",
+    image: "https://m.media-amazon.com/images/I/51oCxicn41L._SL1500_.jpg",
+    image2: "https://m.media-amazon.com/images/I/61hGw-epsJL._SL1500_.jpg"
   },
   {
     id: "oxygen-flow-meter",
@@ -94,8 +94,8 @@ export const products: Product[] = [
       "Professional oxygen valve with rotameter and humidifier bottle for precise oxygen flow adjustment in medical settings.",
     usage:
       "Connect to oxygen cylinder. Fill humidifier bottle with distilled water. Adjust flow rate using the control knob while monitoring the rotameter.",
-    image: "/products/oxygen-flow-meter.jpg",
-    image2: "/products/oxygen-flow-meter-2.jpg",
+    image: "https://m.media-amazon.com/images/I/61hGw-epsJL._SL1500_.jpg",
+    image2: "https://m.media-amazon.com/images/I/51PptLZ7pRL._SL1024_.jpg"
   },
   {
     id: "folding-walking-stick",
@@ -105,8 +105,8 @@ export const products: Product[] = [
       "Lightweight folding walking stick for men, women, and elderly. Made from durable aluminium with adjustable height. Includes trekking cane support.",
     usage:
       "Adjust height to comfortable level. Unfold all sections and lock in place. Use for walking support or trekking. Folds compact for easy storage.",
-    image: "/products/folding-walking-stick.jpg",
-    image2: "/products/folding-walking-stick-2.jpg",
+    image: "https://m.media-amazon.com/images/I/51B+5OsaWoL._SL1080_.jpg",
+    image2: "https://m.media-amazon.com/images/I/61zmu68sMoL._SL1080_.jpg"
   },
   {
     id: "digital-anemometer",
@@ -116,8 +116,8 @@ export const products: Product[] = [
       "Handheld LCD anemometer with backlight for measuring wind speed and air flow. Includes thermometer function for temperature measurement.",
     usage:
       "Turn on device. Hold in wind or airflow. LCD displays wind speed in multiple units. Backlight button for use in low light conditions.",
-    image: "/products/digital-anemometer.jpg",
-    image2: "/products/digital-anemometer-2.jpg",
+    image: "/https://m.media-amazon.com/images/I/61zmu68sMoL._SL1080_.jpg",
+    image2: "https://m.media-amazon.com/images/I/81Z9k-+-ZoL._SL1500_.jpg"
   },
   {
     id: "manual-room-thermometer",
@@ -127,8 +127,8 @@ export const products: Product[] = [
       "Classic wall-mounting room temperature thermometer in white. No batteries required, uses traditional mercury-free design.",
     usage:
       "Mount on wall away from direct sunlight and heat sources. Read temperature by observing the indicator level on the scale.",
-    image: "/products/manual-thermometer.jpg",
-    image2: "/products/manual-thermometer-2.jpg",
+    image: "https://m.media-amazon.com/images/I/512PyDdVlbL._SL1500_.jpg",
+    image2: "https://m.media-amazon.com/images/I/61W0x42-MAL._SL1500_.jpg"
   },
   {
     id: "steam-thermometer",
@@ -138,8 +138,8 @@ export const products: Product[] = [
       "Professional thermometer with external sensor probe for accurate and fast temperature response. Ideal for steam and liquid measurements.",
     usage:
       "Insert probe into steam or liquid. Wait 3-5 seconds for accurate reading. Display shows temperature in Celsius or Fahrenheit.",
-    image: "/products/steam-thermometer.jpg",
-    image2: "/products/steam-thermometer-2.jpg",
+    image: "https://m.media-amazon.com/images/I/41+mo2Al9kL.jpg",
+    image2: "https://m.media-amazon.com/images/I/41+mo2Al9kL.jpg"
   },
   {
     id: "cooking-thermometer",
@@ -149,8 +149,8 @@ export const products: Product[] = [
       "Instant read thermometer with 5.9 inch steel probe. Perfect for industrial, grill, candy, milk, oil, and liquid lab chemical temperature testing.",
     usage:
       "Insert probe into food or liquid. Wait for instant reading on LCD display. Clean probe after each use. Suitable for temperatures up to 300°C.",
-    image: "/products/cooking-thermometer.jpg",
-    image2: "/products/cooking-thermometer-2.jpg",
+    image: "https://m.media-amazon.com/images/I/312wPDsH23L.jpg",
+    image2: "https://m.media-amazon.com/images/I/41zmnGqInrL.jpg"
   },
   {
     id: "refractometer",
@@ -160,8 +160,8 @@ export const products: Product[] = [
       "Handheld Brix meter with automatic temperature compensation. Portable sugar content tester with accessories for accurate measurements.",
     usage:
       "Place 2-3 drops of sample on prism. Close daylight plate. Look through eyepiece and read Brix value on the scale. Wipe clean after use.",
-    image: "/products/refractometer.jpg",
-    image2: "/products/refractometer-2.jpg",
+    image: "https://m.media-amazon.com/images/I/41zmnGqInrL.jpg",
+    image2: "https://m.media-amazon.com/images/I/41zmnGqInrL.jpg"
   },
   {
     id: "soil-ph-meter",
@@ -171,8 +171,8 @@ export const products: Product[] = [
       "Multi-function soil tester for moisture, light, and pH levels. High accuracy gardening tool for lawn, farm, plants, and herbs. Suitable for indoor and outdoor use.",
     usage:
       "Insert probes 4 inches into soil. Switch to desired function (moisture/light/pH). Wait 10 minutes for accurate reading. No batteries required.",
-    image: "/products/soil-ph-meter.jpg",
-    image2: "/products/soil-ph-meter-2.jpg",
+    image: "https://m.media-amazon.com/images/I/41zmnGqInrL.jpg",
+    image2: "https://m.media-amazon.com/images/I/812QSwk05SL._SL1500_.jpg"
   },
   {
     id: "wrist-strengthener",
