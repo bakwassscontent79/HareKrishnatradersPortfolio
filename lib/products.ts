@@ -17,8 +17,8 @@ export const products: Product[] = [
       "High-quality power twister for upper body strength training. Durable construction with comfortable grip handles.",
     usage:
       "Hold the power twister with both hands and bend it using chest and arm muscles. Perform 3 sets of 10-15 repetitions for best results.",
-    image: "/products/power-twister-20kg.jpg",
-    image2: "/products/power-twister-20kg-2.jpg",
+    image: "https://m.media-amazon.com/images/I/41RU6XjIi9L._SY300_SX300_QL70_FMwebp_.jpg",
+    image2: "https://m.media-amazon.com/images/S/aplus-media-library-service-media/2db8ec35-5b1d-49b7-9c9a-4f001648268a.__CR0,0,970,600_PT0_SX970_V1___.jpg",
   },
   {
     id: "aquarium-thermometer",
@@ -28,8 +28,8 @@ export const products: Product[] = [
       "Digital aquarium thermometer with sensor wire for accurate temperature monitoring. Features on/off button for battery conservation.",
     usage:
       "Place the sensor probe in water. Press the on/off button to activate. Display shows accurate temperature readings in real-time.",
-    image: "/products/aquarium-thermometer.jpg",
-    image2: "/products/aquarium-thermometer-2.jpg",
+    image: "https://m.media-amazon.com/images/I/71XPTh7WBvL._SL1500_.jpg",
+    image2: "https://m.media-amazon.com/images/I/411dRjwqm5L._SL1500_.jpg"
   },
   {
     id: "infrared-thermometer",
